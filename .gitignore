@@ -1,0 +1,8 @@
+# Local files (your AyuGram path on this PC)
+ayugram-telegram-alias.ini
+
+# Built binary (built via Build.bat, attach to releases manually)
+ayugram-telegram-alias.exe
+
+# Generated copy for the router (created by the launcher on start)
+Telegram.exe
